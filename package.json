@@ -1,0 +1,23 @@
+{
+  "name": "binanceus-electron-secure",
+  "version": "1.0.0",
+  "description": "Binance US Montoring and Trading Bot - Secure",
+  "main": "app/electron/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanderer2/binanceus-electron-secure.git"
+  },
+  "keywords": [
+    "Electron",
+    "Binance"
+  ],
+  "author": "IT Tech Consulting, Inc. - R. Barrett",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/wanderer2/binanceus-electron-secure/issues"
+  },
+  "homepage": "https://github.com/wanderer2/binanceus-electron-secure#readme"
+}
